@@ -8,4 +8,4 @@ It is missing the data set, and I'll try to upload that once I have access to my
 https://docs.google.com/document/d/1Qv-D4gzGqBensouZp-i46x5gBaw5ZqyBgFBQgKWBP1M/edit?usp=sharing
 (This link doesn't work for now - I have lost the document but I will try to fix soon)
 
-![](https://github.com//Your_GIF_Name.gif](https://github.com/cmbenello/TSP-Metro/blob/main/myAnimation.gif)https://github.com/cmbenello/TSP-Metro/blob/main/myAnimation.gif)
+![](https://github.com/cmbenello/TSP-Metro/blob/main/myAnimation.gif)
